@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    display: grid;
+}
+
+img{
+    width: 15%;
+    height: 250px;
+    margin: 15px;
+}
